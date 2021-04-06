@@ -24,7 +24,7 @@ O primeiro é um [**tutorial de Websockets e Node.js**](https://www.youtube.com/
 
 <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=3WGE29Ym0IQ","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/3WGE29Ym0IQ' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='https://www.youtube.com/embed/3WGE29Ym0IQ' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 </div></figure>
 <!-- /wp:core-embed/youtube -->
 
@@ -36,7 +36,7 @@ Além disso o Iuri nesta terça (04/08) realizou a [**Terça Sem Fim**](https://
 
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/HqoVkgBr8kk","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/HqoVkgBr8kk' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='https://www.youtube.com/embed/HqoVkgBr8kk' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 </div></figure>
 <!-- /wp:core-embed/youtube -->
 
@@ -48,13 +48,13 @@ Também apresentados pelo Iuri tivemos duas lives sobre Tor e hospedagem dos seu
 
 <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=EX2Kewb94UQ","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/EX2Kewb94UQ' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='https://www.youtube.com/embed/EX2Kewb94UQ' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 </div></figure>
 <!-- /wp:core-embed/youtube -->
 
 <!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=T9XPImqg6IU","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/T9XPImqg6IU' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='https://www.youtube.com/embed/T9XPImqg6IU' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 </div></figure>
 <!-- /wp:core-embed/youtube -->
 
@@ -66,13 +66,13 @@ Também apresentados pelo Iuri tivemos duas lives sobre Tor e hospedagem dos seu
 
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/yTw8qQDoQbg","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/yTw8qQDoQbg' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='https://www.youtube.com/embed/yTw8qQDoQbg' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 </div></figure>
 <!-- /wp:core-embed/youtube -->
 
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/4fY4eVlCPrk","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/4fY4eVlCPrk' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='https://www.youtube.com/embed/4fY4eVlCPrk' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 </div></figure>
 <!-- /wp:core-embed/youtube -->
 

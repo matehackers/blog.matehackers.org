@@ -1,9 +1,9 @@
 # Setup
-title: Dark Poole
-url: https://andrewhwanpark.github.io/dark-poole
-paginate: 1
-paginate_path: "/dark-poole/page:num/"
-baseurl: "/dark-poole"
+
+title: Blog do Matehackers
+url: https://blog.matehackers.org
+paginate: 20
+baseurl: "/"
 permalink: pretty
 
 # Gems
@@ -33,17 +33,20 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Matehackers
+  url: https://twitter.com/matehackers
+  email: matehackers@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /dark-poole/archive
+  - title: Localização
+    url: /localizacao
 
-  - title: About
-    url: /dark-poole/about
+  - title: Sobre
+    url: /sobre
+
+  - title: "Ajuda ai sou BR"
+    url: /ajuda

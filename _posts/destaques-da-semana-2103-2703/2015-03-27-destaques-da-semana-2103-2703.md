@@ -46,7 +46,7 @@ Conversa sobre Liquid 3D Printing conclui que ele é "sem vergonha" pois as peç
 
 [transferencia de informacao ](http://www.gizmag.com/teleport-quantum-information/32352/)em velocidades acima da velocidade da luz implica em voltar no tempo
 
-[![prateleira](prateleira-300x225.jpg)](https://blog.matehackers.org/wp-content/uploads/2015/03/prateleira.jpg)
+[![prateleira](/assets/2015/prateleira-300x225.jpg)](/assets/2015/prateleira.jpg)
 
 Foto da nova prateleira para os livros do mate. Não queria dizer nada, mas ta torto ein!
 

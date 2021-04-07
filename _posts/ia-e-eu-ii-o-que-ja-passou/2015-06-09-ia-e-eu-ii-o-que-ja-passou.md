@@ -5,7 +5,9 @@ date: 2015-06-09
 tags: ["cic","educação"]
 ---
 
-![](giphy.gif)Se você ficou decepcionado que o post anterior não continha nenhuma menção à Matrix ou ao Arnold Schwarzenegger, não se preocupe. Hoje vamos começar a dar uma olhada no que _já foi feito_ em termos de Inteligência Artificial. Porém, se você não aguenta mais historinha recomendo pular este post aqui também. Nos vemos no futuro.
+![](/assets/2015/giphy.gif)
+
+Se você ficou decepcionado que o post anterior não continha nenhuma menção à Matrix ou ao Arnold Schwarzenegger, não se preocupe. Hoje vamos começar a dar uma olhada no que _já foi feito_ em termos de Inteligência Artificial. Porém, se você não aguenta mais historinha recomendo pular este post aqui também. Nos vemos no futuro.
 
 ## Há milhões de anos atrás, no futuro..
 

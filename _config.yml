@@ -2,8 +2,8 @@
 
 title: Blog do Matehackers
 url: https://blog.matehackers.org
-paginate: 20
-baseurl: "/"
+paginate: 8
+baseurl: ""
 permalink: pretty
 
 # Gems
@@ -49,4 +49,4 @@ nav:
     url: /sobre
 
   - title: "Ajuda ai sou BR"
-    url: /ajuda
+    url: https://matehackers.org/renda

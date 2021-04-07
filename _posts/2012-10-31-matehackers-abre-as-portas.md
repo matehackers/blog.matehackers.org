@@ -9,7 +9,7 @@ tags: ["hacker","hackerspace","matehackers","nerd","noticias","software livre"]
 
 É com muita felicidade, alívio e expectativa que venho escrever no meu humilde bloginho que, **finalmente**, vai ser inaugurado o primeiro [Hackerspace](http://hackerspaces.org/) aqui de Porto Alegre, o [Matehackers](http://matehackers.org/). Eu já dei uma [blogadinha aqui](http://feedproxy.google.com/hackerspace-na-desconf) sobre ele, eu já falei pros amigos e quem mais quisesse ouvir, além de nos últimos tempos ter gastado um tempo considerável tentando manter os interessados unidos na [lista de emails](https://groups.google.com/forum/?fromgroups#!forum/matehackers). Agora finalmente este trabalho parece estar dando resultado e já em Novembro começa a funcionar o nosso espaço na **Av. Independência, 330 Sala 206** dentro de um espaço de cooworking chamado [Bunker360](http://www.bunker360.com.br/).
 
-<iframe class='youtube-player youtuber' type='text/html' width='425' height='355' src='http://www.youtube.com/embed/TL4tiG7XxJ8?rel=0&fs=1' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+<iframe class='youtube-player youtuber' type='text/html' width='768' height='480' src='http://www.youtube.com/embed/TL4tiG7XxJ8?rel=0&fs=1' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
 
 Minha sensação ao trazer as boas notícias :)
 

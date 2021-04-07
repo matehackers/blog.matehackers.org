@@ -10,7 +10,7 @@ date: 2017-02-07
 
 <!-- /wp:paragraph -->
 
-![](index.png)
+![](/assets/2017/index.png)
 
 Muitos entram em contato com o Matehackers procurando contratar ou oferecer freelances nas mais diversas áreas relacionadas a tecnologia. Embora este não seja em si o intuito de um Hackerspace é natural que pessoas qualificadas orbitem o espaço e boas oportunidades e trocas podem surgir destes contatos.
 

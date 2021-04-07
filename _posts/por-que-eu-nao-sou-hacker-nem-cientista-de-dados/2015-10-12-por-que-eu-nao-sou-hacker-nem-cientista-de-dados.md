@@ -7,6 +7,7 @@ tags: ["filosofias","hacker","hackerspace"]
 
 Semana passada eu estive no primeiro encontro de um grupo novo que está se formando aqui em Porto Alegre chamado RS Data Science. Apesar da chuva forte, várias pessoas compareceram ao evento e puderam mostrar e falar sobre os seus variados projetos e áreas de pesquisas.
 <!--more-->
+
 O evento começou com uma apresentação do grupo por parte dos organizadores e logo de cara foi lançada a pergunta: "Quem aqui se considera um cientista de dados?". Para minha surpresa, a maioria das pessoas - inclusive eu - não se manifestou. Eu não tenho nenhuma teoria sobre o motivo da inibição dos outros participantes, mas eu não me julgo suficientemente apto em termos de conhecimentos e habilidades para me chamar de cientista de dados. Porém, com o decorrer do encontro e das apresentações dos projetos e subsequentes discussões o meu motivo pra não querer me identificar de tal maneira foi sendo modificado.
 
 Como mencionado, o grupo era extremamente diverso em termos de aplicações e técnicas. Haviam os mestrandos e doutorandos e seus trabalhos acadêmicos bem como os funcionários do setor privado e seus projetos que visam aumentar a produção ou tornar determinado processo mais eficiente.

@@ -45,3 +45,17 @@
     margin-left: var(--spacer);
   }
 }
+
+img {
+  margin: auto;
+}
+
+.wp-block-embed {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+.youtube-player {
+  width: 640;
+  height: 360;
+}

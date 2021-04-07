@@ -9,9 +9,7 @@ Isto originalmente era pra ser uma "simples" resposta a um tópico na lista do M
 
 Não é novidade que "simples" pra mim não necessariamente significa "resumo". Eu acabo tendo que implorar pra lerem isto aqui, porque é importante. Desculpa aí, to tentando aprender a resumir as coisas, preciso de ajuda dxs mestres da expressão, obrigado.
 
-<!--more-->
-
-O que é o Matehackers?
+### O que é o Matehackers?
 
 A resposta curta para a pergunta seria "não sei". E esta deve ser a única resposta honesta para esta pergunta. Mas tenho a impressão de que o pessoal gosta de se fazer de tançx e acha que é um absurdo responder isto. Tudo bem então, se tu não te satisfaz com o simples, aí vai o complexo. Tu quem pediu:
 

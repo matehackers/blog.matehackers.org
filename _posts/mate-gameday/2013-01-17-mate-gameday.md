@@ -5,9 +5,9 @@ date: 2013-01-17
 tags: ["eventos"]
 ---
 
-<div>[![tux-yoshi](tux-yoshi.png)](http://blog.matehackers.org/mate-gameday/tux-yoshi/)</div>
-<div id="mate_gameday">Um evento sem precedentes na história do nosso Hackerspace.
-<div>
+[![tux-yoshi](/assets/2013/tux-yoshi.png)](/assets/2013/tux-yoshi.png)
+
+Um evento sem precedentes na história do nosso Hackerspace.
 
 Vamos passar o dia inteiro jogando videogames, trocando ideias e confraternizando como os <del>nerds</del> hackers que somos. Durante o dia vamos apresentar como anda o projeto do videogame do Matehackers e talvez começar alguns projetos de programação para Arduino e outros consoles como o Super Nintendo e o Nintendo DS, tudo depende do interesse e participação no dia do evento.
 
@@ -22,6 +22,3 @@ Adicione ao **Google Agenda**:  [![](gc_button1_pt-BR.gif)](https://www.google.c
 **O que trazer:** Seus periféricos de videogame funcionando ou não, jogos e hardware que queiram compartilhar ou doar, etc...
 
 **Ingresso:** Doação de alimento não perecível que será encaminhada para alguma instituição do [http://letshelp.it](http://letshelp.it "http://letshelp.it")
-
-</div>
-</div>

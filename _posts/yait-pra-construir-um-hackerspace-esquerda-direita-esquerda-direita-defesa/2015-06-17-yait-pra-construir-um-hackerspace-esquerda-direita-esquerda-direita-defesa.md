@@ -7,7 +7,6 @@ tags: []
 
 > Este artigo é um YAIT (yet another internet thesis). As visões descritas aqui pertencem somente a mim e não possuem nenhum rigor científico e portanto podem ser facilmente ignoradas.
 Você já se perguntou em que posição do [espectro político](https://pt.wikipedia.org/wiki/Espectro_pol%C3%ADtico) se encontra um hackerspace? Neste artigo eu coloco a proposta que um hackerspace é formado fundamentalmente por duas ideias de cunho direitista, e duas ideias de esquerda.
-<!--more-->
 
 ## Esquerda e Direita
 
@@ -20,6 +19,7 @@ A influência do movimento Open Source é inegável dentro de um hackerspace, ma
 ## Direita: A Do-ocracia
 
 Segundo o sociólogo [Michel Lamment](http://www.makery.info/2015/05/04/michel-lallement-a-noisebridge-est-legitime-celui-qui-fait/?lang=en)
+
 > "Applying the hacker ethic is far from the Care Bears world for another reason: recognition is heavily based on technical skills."
 Em um hackerspace, várias decisões são tomadas de maneira anárquica e a justificativa do porque as coisas são do jeito que são frequentemente é: "porque o cara que fez quiz assim". Um do-ocrata não se importa com o contexto do porquê fulano fez o que fez ou se o beltrano não fez porque não tinha capacidade ou oportunidade pra fazer. O que importa é fazer. Pra ontem. Pro fisl de preferência. A falta de preocupação com o contexto do indivíduo é típica dos partidos de direita e uma influência marcante no hackerspace.
 

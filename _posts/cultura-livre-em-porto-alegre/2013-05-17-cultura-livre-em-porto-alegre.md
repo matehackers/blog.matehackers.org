@@ -4,7 +4,7 @@ title: Cultura Livre em Porto Alegre
 date: 2013-05-17
 ---
 
-[![](miquei.jpg)](http://cultura.matehackers.org/)
+[![](/assets/2013/miquei.jpg)](http://cultura.matehackers.org/)
 
 Este ano o Matehackers juntamente com a Casa da Cultura Digital vai trazer pela primeira vez o [Dia da Cultura Livre](http://culture.matehackers.org/) para Porto Alegre e na realidade para o Brasil, visto que somos a única cidade a fazê-lo em 2013. Legal né?
 

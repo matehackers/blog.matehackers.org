@@ -11,7 +11,6 @@ Para a grande maioria destas perguntas eu não tenho nenhuma resposta racional. 
 
 Vou tomar o exemplo da parceira entre o Matehackers e a ONG Abrace, da Embratec.
 
-<!--more-->
 
 Quando eu fui lá fazer as primeiras entrevistas com o pessoal da Embratec, da ONG Abrace e do Matehackers (no caso, somente eu), eu relatei que ando pelo Brasil e vejo muita coisa que não acontece conforme as minhas expectativas.
 
@@ -27,10 +26,10 @@ Porque todo e qualquer processo de destinação de computadores termina da mesma
 
 As minhas experiências, e a minha interpretação acerca das experiências de muita gente me permitem afirmar que:
 
-*   Dar computadores para as pessoas não é o suficiente. De fato, simplesmente largar o computador nas mãos das pessoas pode causar mais problemas do que providenciar soluções, em todos os casos que eu já presenciei.
-*   Observar, influenciar, interferir nas consequências sociais que causa a tecnologia na vida das pessoas (também chamado de "impacto"), é uma coisa desejável.
-*   A pergunta que para mim faz sentido fazer sempre, escrever nas paredes, embaixo do travesseiro, nos muros, na tela do computador, e na mente de todo mundo que estiver por perto, é: "Como é que a tecnologia vai ser utilizada pelas pessoas e não o contrário?".
-*   Termos como por exemplo, mas não limitados a "apropriação crítica da tecnologia" são de suma importância.
+  *   Dar computadores para as pessoas não é o suficiente. De fato, simplesmente largar o computador nas mãos das pessoas pode causar mais problemas do que providenciar soluções, em todos os casos que eu já presenciei.
+  *   Observar, influenciar, interferir nas consequências sociais que causa a tecnologia na vida das pessoas (também chamado de "impacto"), é uma coisa desejável.
+  *   A pergunta que para mim faz sentido fazer sempre, escrever nas paredes, embaixo do travesseiro, nos muros, na tela do computador, e na mente de todo mundo que estiver por perto, é: "Como é que a tecnologia vai ser utilizada pelas pessoas e não o contrário?".
+  *   Termos como por exemplo, mas não limitados a "apropriação crítica da tecnologia" são de suma importância.
 Uma coisa é alguém ver na televisão, ouvir alguém falar e fazer de conta que concorda, aceita e reconhece que existem pessoas com necessidades reais e que precisam ter acesso à tecnologia.
 
 Outra coisa completamente diferente é alguém ser obrigadx a passar o dia inteiro, todo dia, vendo estas coisas. Vendo e convivendo com gente que tem necessidades reais, e que precisam de gente trabalhando pra garantir que terão condições melhores. Quando eu digo "condições melhores", não estou dizendo que eu sei o que as pessoas precisam. Estou me referindo à capacidade das pessoas de poderem decidir se é interessante terem condições melhores, e o que são condições melhores em primeiro lugar.

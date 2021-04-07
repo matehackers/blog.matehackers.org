@@ -4,8 +4,9 @@ title: Hackers contra o COVID-19
 date: 2020-03-27
 ---
 
-<!-- wp:image {"id":774,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large">![](coronavirus-hackers-1024x576.jpg)</figure>
+
+![](/assets/2020/coronavirus-hackers-1024x576.jpg)
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

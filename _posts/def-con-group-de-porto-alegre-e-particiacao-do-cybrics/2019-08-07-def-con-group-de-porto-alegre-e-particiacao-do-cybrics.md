@@ -5,7 +5,8 @@ date: 2019-08-07
 ---
 
 <!-- wp:image {"id":769} -->
-<figure class="wp-block-image">![](Selection_246-1024x348.png)</figure>
+![](/assets/2019/Selection_246-1024x348.png)
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -14,8 +15,8 @@ Nos últimos dias nós vimos um reaquecimento das atividades de grupos de **segu
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":767} -->
-<figure class="wp-block-image">![](time-1024x681.jpg)<figcaption>Equipe UFRGS_sec</figcaption></figure>
+![Equipe UFRGS_sec](/assets/2019/time-1024x681.jpg)
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -12,10 +12,13 @@ Dessa vez ficaremos na sala do Mate e o espaço é reduzido. Por isso não perca
 
 O que rolou no [evento anterior](http://encontros.matehackers.org/pt/projects/16-open-data-day "Open Data Day 2015")?
 
-[embed]https://www.youtube.com/watch?v=vSds2pPDmMY[/embed]
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+<iframe class='youtube-player youtuber' type='text/html' width='768' height='480' src='http://www.youtube.com/embed/vSds2pPDmMY' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+</div></figure>
 
 Para quem não participou do evento anterior, veja alguns links do que aconteceu:
 
-*   [http://ccdpoa.com.br/2015/02/23/open-data-day-2015-continua/](http://ccdpoa.com.br/2015/02/23/open-data-day-2015-continua/)
-*   [http://wiki.opendataday.org/PORTOALEGRE2015](http://wiki.opendataday.org/PORTOALEGRE2015)
-*   [https://matehackers.org/opendatadaypoa2015](https://matehackers.org/opendatadaypoa2015)
+  *   [http://ccdpoa.com.br/2015/02/23/open-data-day-2015-continua/](http://ccdpoa.com.br/2015/02/23/open-data-day-2015-continua/)
+  *   [http://wiki.opendataday.org/PORTOALEGRE2015](http://wiki.opendataday.org/PORTOALEGRE2015)
+  *   [https://matehackers.org/opendatadaypoa2015](https://matehackers.org/opendatadaypoa2015)

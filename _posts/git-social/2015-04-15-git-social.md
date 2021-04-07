@@ -6,6 +6,7 @@ tags: ["git","internet","noticias","social","software livre"]
 ---
 
 Originalmente (seria) publicado na [Igreja Universal do Reino do IURI](http://iuri.tem.blog.br)
+
 > Edição: foi publicado! [iuri.tem.blog.br/posts/git_social](http://iuri.tem.blog.br/posts/git_social)
 Mas como a [minha ikiwiki](http://ninguem.tem.blog.br) está com algum erro de configuração, e o assunto vai perder a validade antes que eu consiga computador e internet para arrumar, então vou publicar aqui.
 
@@ -24,8 +25,9 @@ Mas hoje eu não vou atacar o wordpress, vou atacar o github e o gitlab. Segue o
 # Gitorious morreu!
 
 Com a [morte][a] do [Gitorious][b], agora todo mundo precisa encontrar uma alternativa para hospedar publicamente seus repositórios [git][_c].
-> Edição: [Rolf Bjaanes anunciou que os repositórios permanecerão somente leitura][br] graças aos esforços dele e do pessoal do [Archive Team][bs].> 
-> [br]: http://archiveteam.org/index.php?title=Gitorious> 
+
+> Edição: [Rolf Bjaanes anunciou que os repositórios permanecerão somente leitura][br] graças aos esforços dele e do pessoal do [Archive Team][bs].>
+> [br]: http://archiveteam.org/index.php?title=Gitorious>
 > [bs]: http://archiveteam.org
 
 # Por que?

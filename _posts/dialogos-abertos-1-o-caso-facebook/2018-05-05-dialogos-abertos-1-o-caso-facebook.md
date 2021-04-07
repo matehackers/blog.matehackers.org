@@ -4,11 +4,9 @@ title: "Diálogos Abertos #1: O Caso facebook"
 date: 2018-05-05
 ---
 
-<div class="entry-content">
-
 Texto replicado de: [http://baixacultura.org/dialogos-abertos-1-o-caso-facebook-por-que-devemos-nos-preocupar-com-isso/](http://baixacultura.org/dialogos-abertos-1-o-caso-facebook-por-que-devemos-nos-preocupar-com-isso/)
 
-[![](https://blog.matehackers.org/wp-content/uploads/2018/05/30728941_2077140198982707_3743780252980084736_o-655x344.jpg)](30728941_2077140198982707_3743780252980084736_o-655x344.jpg)
+![](/assets/2018/30728941_2077140198982707_3743780252980084736_o-655x344.jpg)
 
 Junto com o [Hackerspace Matehackers](https://matehackers.org) e a [Casa da Cultura Digital Porto Alegre](http://ccdpoa.com.br), começamos na última quinta-feira, 26 de abril,  uma série de debates sobre temas ligados à cultura digital, tecnopolítica, direitos digitais, cultura livre, ética hacker e outros do nosso cotidiano digital. Nosso intuito foi, e continuará sendo com os próximos, dissecar esses temas num momento em que a internet que conhecemos está acabando, e que novas "internets" estão sendo construídas, num campo em ferrenha disputa que acontece hoje.
 
@@ -18,8 +16,10 @@ A conversa realizada no miolo do [Vila Flores](http://vilaflores.net), condomín
 
 Diálogos Abertos marcou também o lançamento da Newsletter quinzenal CCD POA + BaixaCultura ([inscrição e todas as infos aqui](http://baixacultura.org/agora-temos-uma-newsletter-quinzenal/)), e da [campanha de financiamento contínuo do BaixaCultura no Apoia.se](https://apoia.se/ baixacultura). Teve a presença de cerca de 20 pessoas e outras tantas online, na transmissão que fizemos no YouTube e que está disponível aqui abaixo. As fotos são de Sheila Uberti. A 2º edição será realizada em maio.
 
-<iframe src="ZcXl3KXns_w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+![](/assets/2018/photo5136697916294014925-655x491.jpg)
 
-[![](https://blog.matehackers.org/wp-content/uploads/2018/05/photo5136697916294014925-655x491.jpg)](photo5136697916294014925-655x491.jpg) [![](https://blog.matehackers.org/wp-content/uploads/2018/05/photo5136697916294014923-655x491.jpg)](photo5136697916294014923-655x491.jpg) [![](https://blog.matehackers.org/wp-content/uploads/2018/05/photo5136697916294014924-655x491.jpg)](photo5136697916294014924-655x491.jpg) [![](https://blog.matehackers.org/wp-content/uploads/2018/05/photo5136697916294014922-655x491.jpg)](photo5136697916294014922-655x491.jpg)
+![](/assets/2018/photo5136697916294014923-655x491.jpg)
 
-</div>
+![](/assets/2018/photo5136697916294014924-655x491.jpg)
+
+![](/assets/2018/photo5136697916294014922-655x491.jpg)

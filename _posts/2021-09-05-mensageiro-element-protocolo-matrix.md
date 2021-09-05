@@ -56,7 +56,8 @@ Sempre quando vamos adotar algum software livre para solucionar algum problema r
 ## Conclusão
 
 Em tempos onde cada computador pessoal e smartfones são olhos e ouvidos para governos e grandes corporações devemos utilizar e perpetuar o uso de ferramentas que garantam um direito básico de privacidade dos dados pessoais.
-O que você achou desse post? Quer saber mais? Conhece ou já usou algum outro client da Matrix? Tem interesse em outras alternativas? Delta Chat? Briar? Quer saber mais sobre privacidade? Criptografia? Metadados? Comente o que achou e procure o Matehackers!
+
+O que você achou desse post? Quer saber mais? Conhece ou já usou algum outro [Client da Matrix](https://matrix.org/clients/)? Tem interesse em outras alternativas? [Delta Chat](https://delta.chat/pt/)? [Briar](https://play.google.com/store/apps/details?id=org.briarproject.briar.android)? Quer saber mais sobre privacidade? Criptografia? Metadados? Comente o que achou e procure o **[Matehackers](https://matehackers.org/)**!
 
 Que a força esteja com você!
 

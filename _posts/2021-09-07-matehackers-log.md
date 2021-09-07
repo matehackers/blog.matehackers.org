@@ -17,9 +17,11 @@ Várias coisas importantes aconteceram no Matehackers nesse mês de Agosto de 20
 
 [Dojo](https://www.youtube.com/watch?v=AyGibt1H-B8): Rolou um Dojo de JS com a coordenação do @f0rmig4 e com uma galera muito massa, totalmente remoto, aplicando técnicas de TDD para implementar o jogo “Pedra, Papel, Tesoura”. O Dojo foi transmitido com Jitsi e para codificar usamos a IDE colaborativa Replit. A gravação pode ser vista [aqui](https://www.youtube.com/watch?v=AyGibt1H-B8) e o código está no [GitHub do Matehackers](https://github.com/matehackers/codingdojo/tree/master/28-08-21). **Ta interessado no próximo? [Se increve aqui](https://forms.gle/rJd5Nfr7VtmtR4Z47).**
 
-![Log Matehackers](/assets/2021/Element.png)
+![Logo Element](/assets/2021/Element.png)
 
 [Matrix](https://f0rmig4.dev/mensageiro-element-protocolo-matrix/): O matehackers agora também está na Matrix. Estamos experimentando novas ferramentas de comunicação que usam esse protocolo. Vamos construir uma ponte com o nosso canal do Telegram e ainda queremos montar um servidor próprio para a comunidade geral. No post [O mensageiro Element e o protocolo Matrix](https://f0rmig4.dev/mensageiro-element-protocolo-matrix/) damos mais detalhes da solução. 
+
+![Logo MuvucaHack Festival](/assets/2021/muvuca.png)
 
 [MuvucaHack Festival](https://muvuca.matehackers.org/): Vai ter muvuca hacker sim! Estamos preparando um festival para Novembro, vamos pautar assuntos relacionados a Cultura Hacker, Tecnologia e Conhecimento Livre. Se cadastre no [site oficial do evento](https://muvuca.matehackers.org/) para acompanhar as novidades.
 

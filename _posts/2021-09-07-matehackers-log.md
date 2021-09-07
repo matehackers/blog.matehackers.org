@@ -5,7 +5,7 @@ date: 2021-09-07
 description: Várias coisas importantes aconteceram no Matehackers nesse mês de Agosto de 2021. Por isso decidimos retomar a ideia de criar uma Newsletter do nosso Hackerspace para resumir o que rolou e o que está sendo planejado por essa comunidade incrível que é o Hackerspace Matehackers.
 ---
 
-![Log Matehackers](assets/2021/log-verde.png)
+![Log Matehackers](/assets/2021/log-verde.png)
 
 Várias coisas importantes aconteceram no Matehackers nesse mês de Agosto de 2021. Por isso decidimos retomar a ideia de criar uma Newsletter do nosso Hackerspace para resumir o que rolou e o que está sendo planejado por essa comunidade incrível que é o Hackerspace Matehackers. A nossa Newsletter vai ser mensal e vai se chamar Log Matehackers. Também vamos montar uma curadoria de links e materiais do mês! E sempre com um agradecimento a todos que ajudam a manter o Hackerspace vivo!
 

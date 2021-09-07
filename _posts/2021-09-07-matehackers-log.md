@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Log Matehackers
+title: Matehackers em Agosto
 date: 2021-09-07
 description: Várias coisas importantes aconteceram no Matehackers nesse mês de Agosto de 2021. Por isso decidimos retomar a ideia de criar uma Newsletter do nosso Hackerspace para resumir o que rolou e o que está sendo planejado por essa comunidade incrível que é o Hackerspace Matehackers.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matehackers em Agosto
+title: Matehackers em Agosto 2021
 date: 2021-09-07
 description: Várias coisas importantes aconteceram no Matehackers nesse mês de Agosto de 2021. Por isso decidimos retomar a ideia de criar uma Newsletter do nosso Hackerspace para resumir o que rolou e o que está sendo planejado por essa comunidade incrível que é o Hackerspace Matehackers.
 ---
@@ -13,7 +13,11 @@ Várias coisas importantes aconteceram no Matehackers nesse mês de Agosto de 20
 
 [Manifesto](https://matehackers.org/manifesto): Sim, tivemos algumas discussões vergonhosas e no mínimo improdutivas no Telegram. O manifesto é bem completo e recomendamos a leitura, mas a mensagem a seguir resume bem: “A discussão presencial no Matehackers é sempre bem vinda. Mas o Telegram tem um alcance diferente e as condições de discussão produtivas são reduzidas. Portanto não vamos mais tolerar alguns assuntos aqui. Todos são bem vindos numa discussão presencial (quando a pandemia permitir). Porém seremos mais rígidos quanto ao uso do grupo do telegram para determinadas pautas.”
 
+<iframe class='youtube-player youtuber' type='text/html' width='768' height='480' src='https://www.youtube.com/watch?v=AyGibt1H-B8' webkitAllowFullScreen mozallowfullscreen allowFullScreen frameborder='0'></iframe>
+
 [Dojo](https://www.youtube.com/watch?v=AyGibt1H-B8): Rolou um Dojo de JS com a coordenação do @f0rmig4 e com uma galera muito massa, totalmente remoto, aplicando técnicas de TDD para implementar o jogo “Pedra, Papel, Tesoura”. O Dojo foi transmitido com Jitsi e para codificar usamos a IDE colaborativa Replit. A gravação pode ser vista [aqui](https://www.youtube.com/watch?v=AyGibt1H-B8) e o código está no [GitHub do Matehackers](https://github.com/matehackers/codingdojo/tree/master/28-08-21). **Ta interessado no próximo? [Se increve aqui](https://forms.gle/rJd5Nfr7VtmtR4Z47).**
+
+![Log Matehackers](/assets/2021/Element.png)
 
 [Matrix](https://f0rmig4.dev/mensageiro-element-protocolo-matrix/): O matehackers agora também está na Matrix. Estamos experimentando novas ferramentas de comunicação que usam esse protocolo. Vamos construir uma ponte com o nosso canal do Telegram e ainda queremos montar um servidor próprio para a comunidade geral. No post [O mensageiro Element e o protocolo Matrix](https://f0rmig4.dev/mensageiro-element-protocolo-matrix/) damos mais detalhes da solução. 
 

@@ -26,7 +26,7 @@ github.com/matehackers/codingdojo/tree/master/25-09-21).
 
 ## [MuvucaHack Festival](https://muvuca.matehackers.org/)
 
-![Logo MuvucaHack Festival](/assets/2021/muvuca.png)
+![Logo MuvucaHack Festival](/assets/2021/muvuca2.png)
 
 A programação já foi divulgada, confira os ótimos convidades com discussões sobre conhecimento e tecnologias livres, inclusão, cultura hacker e segurança. A conferência vai acontecer nos sábados de novembro, das 14 às 18:00, e será totalmente online. [Inscreva-se](https://muvuca.matehackers.org/) para receber as atualizações do evento.
 
@@ -39,7 +39,8 @@ Criamos o canal do Matehackers na Matrix e a ponte com o grupo do Telegram. Agor
 ---
 
 ## [Grupo de estudo sobre privacidade](https://matrix.to/#/#privacidade-matehackers:matrix.org)
-Começamos a discutir sobre privacidade, criptografia, VPNs, sistemas operacionais de código aberto como LineageOS e etc. Por isso decidimos criar um grupo de estudo sobre privacidade, para ter um espaço onde podemos trocar dicas e aprendizados. Nesse próximo mês pretendemos ler o livro *Cypherpunks: Liberdade e o futuro da internet (Cypherpunks)* de Julian Assange, vamos compartilhar aprendizados, experiências e praticas através do [canal do grupo](https://matrix.to/#/#privacidade-matehackers:matrix.org) e também através de posts no blog do Mate. Para os apoiadores, vamos adicionar algumas coisas na pasta de materiais de estudo. ;)
+
+Retomamos discussões sobre privacidade, criptografia, VPNs, sistemas operacionais de código aberto como LineageOS e etc. Por isso decidimos criar um grupo de estudo sobre privacidade, para ter um espaço onde podemos trocar dicas e aprendizados. Nesse próximo mês pretendemos ler o livro *Cypherpunks: Liberdade e o futuro da internet (Cypherpunks)* de Julian Assange, vamos compartilhar aprendizados, experiências e praticas através do [canal do grupo](https://matrix.to/#/#privacidade-matehackers:matrix.org) e também através de posts no blog do Mate. Para os apoiadores, vamos adicionar algumas coisas na pasta de materiais de estudo. ;)
 
 ---
 

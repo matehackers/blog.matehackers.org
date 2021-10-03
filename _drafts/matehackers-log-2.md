@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🧉 Matehackers 👾 Setembro 2021
+title: 🧉👾 Matehackers - Setembro 2021
 date: 2021-10-03
 description: Algumas coisas que aconteceram no Matehackers em Setembro.
 ---

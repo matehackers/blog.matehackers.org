@@ -7,7 +7,6 @@ description: Algumas coisas que aconteceram no Matehackers em Setembro.
 
 <br>
 
-
 ![Log Matehackers](/assets/2021/log-verde.png)
 
 Em setembro tivemos mais um Dojo de Python, começamos algumas discussões para formar um grupo de estudo sobre privacidade e iniciamos a divulgação da programação do [MuvucaHack Festival](https://muvuca.matehackers.org/), já conferiu?! Os convidados são incríveis!
@@ -40,7 +39,7 @@ Criamos o canal do Matehackers na Matrix e a ponte com o grupo do Telegram. Agor
 ---
 
 ## [Grupo de estudo sobre privacidade](https://matrix.to/#/#privacidade-matehackers:matrix.org)
-Começamos a discutir sobre privacidade, criptografia, VPNs, e o [@f0rmig4](https://app.element.io/#/user/@f0rmig4:matrix.org) até instalou LineageOS. Por isso decidimos criar um grupo de estudo sobre privacidade, para ter um espaço onde podemos trocar dicas e aprendizados. Nesse próximo mês pretendemos ler o livro *Cypherpunks: Liberdade e o futuro da internet (Cypherpunks)* de Julian Assange, vamos compartilhar aprendizados, experiências e praticas através do [canal do grupo](https://matrix.to/#/#privacidade-matehackers:matrix.org) e também através de posts no blog do Mate. Para os apoiadores, vamos adicionar algumas coisas na pasta de materiais de estudo. ;)
+Começamos a discutir sobre privacidade, criptografia, VPNs, sistemas operacionais de código aberto como LineageOS e etc. Por isso decidimos criar um grupo de estudo sobre privacidade, para ter um espaço onde podemos trocar dicas e aprendizados. Nesse próximo mês pretendemos ler o livro *Cypherpunks: Liberdade e o futuro da internet (Cypherpunks)* de Julian Assange, vamos compartilhar aprendizados, experiências e praticas através do [canal do grupo](https://matrix.to/#/#privacidade-matehackers:matrix.org) e também através de posts no blog do Mate. Para os apoiadores, vamos adicionar algumas coisas na pasta de materiais de estudo. ;)
 
 ---
 

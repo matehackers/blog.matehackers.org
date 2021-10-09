@@ -29,7 +29,7 @@ Adicionamos alguns recursos na pasta de arquivos que é enviada para os apoiador
 
 # Agradecimento aos apoiadores do matehackers
 
-Agradecimento especial à nova colaboração de Yuri Trindade Minar e a todos [apoiadores](https://apoia.se/matehackers) da nossa campanha de financiamento:
+Agradecimento especial a todos [apoiadores](https://apoia.se/matehackers) da nossa campanha de financiamento:
 Ricardo Perufo Mello, Márcio Zago Andrade, Marina Anderle Giongo, Sheila Uberti, Lucas Mizusaki, Mário Sérgio, Daniel, Herberson Silva Miranda, Thiago Couto, Pedro Felipe Vergo Scheffer, Alan Ficagna, Gui PK e Yuri Trindade Minar.
 
 💎[Quer apoiar financeiramente? Clica aqui.](https://matehackers.org/renda)

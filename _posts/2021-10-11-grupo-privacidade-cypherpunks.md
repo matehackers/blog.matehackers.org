@@ -13,7 +13,7 @@ No final do mês vamos fazer um encontro virtual para conversar sobre o livro e 
 
 ![Cypherpunks](/assets/2021/cypherpunks.jpg)
 
-Cypherpunks são individuos que defendem o uso generalizado de criptografia e tecnologias em prol da privacidade. Sua máxima é *"privacidade para os fracos, transparênmcia para os poderosos"*. 
+Cypherpunks são indivíduos que defendem o uso generalizado de criptografia e tecnologias em prol da privacidade. Sua máxima é *"privacidade para os fracos, transparência para os poderosos"*. 
 
 O livro foi escrito junto com renomados desenvolvedores, [Jérémie Zimmermann](https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Zimmermann) (Engenheiro da computação e co-fundador da [La Quadrature du Net](https://en.wikipedia.org/wiki/La_Quadrature_du_Net)), [Jacob Appelbaum](https://en.wikipedia.org/wiki/Jacob_Appelbaum) (Desenvolvedor do The Tor Project) e [Andy Müller-Maguhn](https://en.wikipedia.org/wiki/Andy_M%C3%BCller-Maguhn) (Membro do [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club)) que buscam discutir se o mundo digital vai nos emancipar ou escravizar.
 

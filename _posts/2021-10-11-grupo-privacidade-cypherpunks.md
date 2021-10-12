@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Grupo de estudo sobre Privacidade
+title: Grupo de Privacidade começa com Cypherpunks
 date: 2021-10-11
-description: Início do grupo sobre privacidade no Matehackers
+description: Início do grupo sobre privacidade no Matehackers começa com leitura indicada Cypherpunks Liberdade e o futuro da internet, de Julian Assange
 ---
 
 O grupo de estudo sobre privacidade começou!!! Agora em Outubro vamos ler o livro *Cypherpunks: Liberdade e o futuro da internet* de Julian Assange. Temos um [canal do grupo na matrix](https://matrix.to/#/#privacidade-matehackers:matrix.org) para compartilhar o que estamos pensando sobre os livros e os demais assuntos relacionados a criptografia, softwares, alternativas, aprendizados e boas práticas para privacidade.

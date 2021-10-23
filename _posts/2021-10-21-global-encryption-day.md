@@ -11,7 +11,7 @@ A criptografia ponta a ponta é qualquer forma de criptografia na qual apenas o 
 
 Existem governos e empresas que buscam enfraquecer a criptografia, e a internet como um todo. Existem tentativas de governos para conceder às agências governamentais poderes especiais (portas dos fundos) para acessar dados privados e plataformas criptografadas. Há também aqueles que não oferecem a privacidade e segurança pois visam lucros e oportunidades para controlar informações massivas. É importante que todos entendam a importancia do uso de métodos de criptografia fortes, de ponta a ponta e do código aberto.
 
-<!-- Há uma espécie de bambu, "Phyllostachys bambusoides", que tem sua florada a cada 23 anos. Cientistas acreditam que esse "número primo de tempo" para cada floração é um diferencial evolutivo dessa espécie frente as demais. -->
+<!-- Há uma espécie de bambu, "Phyllostachys bambusoides", que tem sua florada a cada 23 anos*. Cientistas acreditam que esse "número primo de tempo" para cada floração é um diferencial evolutivo dessa espécie frente as demais. *Essa informação, 23 anos, encontrada na wiki sobre números primos esta incorreta. O ciclo de florada dessa espécie é a cada 120 anos. Cientistas acreditam que é resultado da evolução com ciclos cada vez mais longos baseado em pequenos números primos 5x3x2x2x2. Isso de acordo com matéria colocada como referência na propria wiki: https://www.nationalgeographic.com/science/article/bamboo-mathematicians -->
 kwwsvgrlvsrqwrveduudeduudpdwhkdfnhuvsrqwrrujeduudpdgdnh
 <small>- ɡaiʊs juliʊs</small>
 

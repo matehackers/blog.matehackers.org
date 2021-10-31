@@ -62,6 +62,10 @@ O que você achou desse post? Quer saber mais? Conhece ou já usou algum outro [
 Que a força esteja com você!
 
 
+## Update
+
+Acesso o link do espaço na Matrix: [https://matrix.to/#/#matehackers:matrix.org](https://matrix.to/#/#matehackers:matrix.org)
+
 ## Referências
 
 - [https://element.io/](https://element.io/)

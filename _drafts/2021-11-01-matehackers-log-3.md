@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🧉👾 Matehackers - Outubro 2021
-date: 2021-10-17
+date: 2021-11-01
 description: Saiba o que aconteceu no Mate em Outubro.
 ---
 
@@ -33,19 +33,23 @@ Quem quiser saber mais veja abaixo como o Lucas se apresenta no canal:
 
 ## [Espaço na Matrix segue crescendo](https://matrix.to/#/#matehackers-bridges:matrix.org)
 
-Cada vez mais hackers estão na Matrix e ocupando o espaço do Matehackers. 
+Cada vez mais hackers estão na Matrix e ocupando o espaço do Matehackers.
 
 ---
 
-## [Primeiro encontro Grupo de Privacidade]()
+## Primeiro encontro Grupo de Privacidade
 
+Aconteceu o primeiro encontro do Grupo de Privacidade do Matehackers. A discussão que começou sobre o livro [Cypherpunks](https://blog.matehackers.org/2021/10/11/grupo-privacidade-cypherpunks/) logo se desenrolou para assuntos mais amplos. Abordamos histórias pessoais e motivações relacionadas a privacidade, ferramentas usadas pelos jornalistas da WikiLeaks e ativistas brasileiros (Tor, SecureDrop, GPG, OTR, ...). Também falamos sobre LGPD e vazamento de dados, de empresas de entrega da época da bolha ponto com, da uberização e precarização do trabalho, e até do Metaverso, o Facebook e como a internet foi cercada.
 
+Dentro de toda discussão, sempre esteve presente o papel individual e o da sociedade em compreender a importância da privacidade e como podemos nos proteger e proteger o futuro da internet. Por isso, decidimos trazer como leitura de novembro outro livro mais prático: [A Criptografia Funciona: Como Proteger Sua Privacidade na Era da Vigilância em Massa](https://www.mariscotron.libertar.org/2017/06/26/livro-a-criptografia-funciona-como-proteger-sua-privacidade-na-era-da-vigilancia-em-massa/). Ele foi escrito por Micah Lee, da Freedom of the Press Foundation logo após os primeiros vazamentos feitos por Edward Snowden. Além de explicar sobre o potencial da criptografia, ele aborda tutoriais de Tor, Pidgin e OTR, Email e PGP e Tails. 
+
+O próximo encontro será dia 04/12. Aguarde novas divulgações.
 
 ---
 
 ## [Vai começar o MuvucaHack Festival](https://muvuca.matehackers.org/)
 
-![Logo MuvucaHack Festival](/assets/2021/muvuca2.png)
+![Card de divulgação do primeiro dia do Muvuca](/assets/2021/muvuca-primeiro-dia.jpg)
 
 Outubro passou e Novembro chegou! Lembre-se de se [inscrever](https://muvuca.matehackers.org/) para receber as atualizações do evento. A conferência vai acontecer nos sábados de novembro, das 14 às 18:00, e será totalmente online.
 

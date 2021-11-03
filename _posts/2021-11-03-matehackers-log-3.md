@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🧉👾 Matehackers - Outubro 2021
-date: 2021-11-01
+date: 2021-11-03
 description: Saiba o que aconteceu no Mate em Outubro.
 ---
 

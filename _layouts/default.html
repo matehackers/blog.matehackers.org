@@ -9,6 +9,12 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 
           <nav class="nav">
+            <small>
+              <a href="/atom.xml" style="display: inline-block;">
+                RSS
+                <img src="/assets/rss.png" style="float: left; padding: 3px; vertical-align: middle; width: 20px;"/>
+              </a>
+            </small>
             {% for nav in site.nav %}
             <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
             {% endfor %}
